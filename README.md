@@ -1,6 +1,6 @@
 # reactAssignment-05A-April
 
-# link: https://sachinbiswal.github.io/reactAssignment-05April/
+# link: https://sachinbiswal.github.io/reactAssignment-05A-April/
 
 ## This app is build to demonstrate the concept of contextAPI
 ## This project have 4 components 
